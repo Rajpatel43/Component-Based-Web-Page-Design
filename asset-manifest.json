@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Component-Based-Web-Page-Design/static/css/main.c7d2c66f.css",
+    "main.js": "/Component-Based-Web-Page-Design/static/js/main.ec3e3788.js",
+    "static/media/icon.png": "/Component-Based-Web-Page-Design/static/media/icon.4bf63d03e23e435e8da2.png",
+    "static/media/talent.png": "/Component-Based-Web-Page-Design/static/media/talent.aabe390dd3b01e2fb449.png",
+    "static/media/challenge.png": "/Component-Based-Web-Page-Design/static/media/challenge.7a2e248d0dbbb013485e.png",
+    "static/media/collab.png": "/Component-Based-Web-Page-Design/static/media/collab.7936af66ee3d816c9e2c.png",
+    "static/media/seo.png": "/Component-Based-Web-Page-Design/static/media/seo.6f6f8ff8f0b8446ff712.png",
+    "index.html": "/Component-Based-Web-Page-Design/index.html",
+    "main.c7d2c66f.css.map": "/Component-Based-Web-Page-Design/static/css/main.c7d2c66f.css.map",
+    "main.ec3e3788.js.map": "/Component-Based-Web-Page-Design/static/js/main.ec3e3788.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7d2c66f.css",
+    "static/js/main.ec3e3788.js"
+  ]
+}
